@@ -1,2 +1,2 @@
-# Kieu-Nhung-GIT-COURSE
+# KieuNhung-GIT-COURSE
 Git course - Homework 2
