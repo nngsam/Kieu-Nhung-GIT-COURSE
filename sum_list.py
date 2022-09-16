@@ -1,6 +1,13 @@
 def sum_list(nums):
     result = 0
     for i in nums:
-        result += 1
-        
+        try:
+            result+= int(i)
+        except ValueError:
+            pass
     return result 
+
+
+
+
+ 
